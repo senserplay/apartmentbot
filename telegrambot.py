@@ -2,7 +2,7 @@ import main
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot("7153831730:AAGusWybxiKrsydHpPU4fGd1BQwnItMSZxg")
+bot = telebot.TeleBot("token")
 
 main.train_model()
 
